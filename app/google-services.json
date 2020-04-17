@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846110673936",
+    "firebase_url": "https://latihanfirebase-9e7a6.firebaseio.com",
+    "project_id": "latihanfirebase-9e7a6",
+    "storage_bucket": "latihanfirebase-9e7a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846110673936:android:a63c569d853de28d69ce95",
+        "android_client_info": {
+          "package_name": "com.example.tugasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846110673936-57e9nljfjacejfvcvfu9o9rb6mpekman.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAnU3pATLQpn4DNjAvKdI7T9KfNWfuZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846110673936-57e9nljfjacejfvcvfu9o9rb6mpekman.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
